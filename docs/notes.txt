@@ -1,0 +1,15 @@
+Notes:
+- testing: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
+  - install Jekyll, bundle.
+  - Run 'bundle exec jekyll serve'.
+  - Go to localhost:4000
+
+TODO
+- update resume, embed pdf in html? 
+- try adding new menu bar item "projects"
+- add contact form
+- add linkedin icon
+- add photo of me
+- add resume menu bar item, https://stackoverflow.com/questions/64521414/display-pdf-in-github-markdown
+- create a gallery for projects
+- set up local build
