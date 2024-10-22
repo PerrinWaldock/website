@@ -19,7 +19,7 @@ email: me@pwaldock.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Recovering physicist, currently working as an Automation Engineer.
 github_username: PerrinWaldock
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -67,20 +67,29 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/PerrinWaldock"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin" #TODO ICON 
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/perrin-waldock-58587410a/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:me@pwaldock.ca"
+    - label: "CV"
+      icon: "fas fa-fw fa-file"
+      url: "/assets/documents/resume - Perrin Waldock.pdf"
 
 footer:
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://pwaldock.ca"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/PerrinWaldock"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin" #TODO ICON 
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/perrin-waldock-58587410a/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:me@pwaldock.ca"
+    - label: "CV"
+      icon: "fas fa-fw fa-file"
+      url: "/assets/documents/resume - Perrin Waldock.pdf"
 
 defaults:
   # _posts
@@ -91,6 +100,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      show_date: true
       comments: true
       share: true
       related: true
@@ -101,6 +111,23 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      show_date: true
+      comments: true
+      share: true
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
 
 category_archive:
   type: liquid

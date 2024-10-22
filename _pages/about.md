@@ -1,8 +1,12 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /index.html
+title: "About Me"
+layout: single
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi! I'm a nerd who likes exploring and building things. While my undergraduate degree was in physics and computer science, I've been slowly turning into an engineer. If I'm not working or tinkering with some project, I enjoy hiking, canyoning, board games, tabletop RPGs, and playing music.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+This website shows off some projects I've worked on, as well as various other things I find interesting.
+
+If you're interested in hiring me, you can download my resume [here](<../assets/documents/resume - Perrin Waldock.pdf>).
+<!--TODO link to my resume here-->
