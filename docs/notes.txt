@@ -8,17 +8,14 @@ TODO
 - update resume, embed pdf in html? 
 - add contact form
 - add resume menu bar item, https://stackoverflow.com/questions/64521414/display-pdf-in-github-markdown
-- create a gallery for projects
 
 Projects to document:
 - quadcopter
-- (physics demos) leidenfrost effect/nitinol engine
-- 	https://stackoverflow.com/questions/46273751/how-can-i-add-a-video-in-markdown
+  needs cleanup of the handheld controller code
 - home automation
 - Arduino feedback controller
 - Arduino microwave source
-- Portable cold-atom vacuum standard
+- pannier clip
 
 Posts:
-- 3D printer modifications, give ratings for each one?
 - Neat things to 3D print?

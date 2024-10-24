@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Perrin Waldock"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Engineer/Physicist who likes building things"
+  bio    : "likes making things"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
