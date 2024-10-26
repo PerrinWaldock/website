@@ -17,7 +17,7 @@ One of my undergraduate physics professors enjoyed seeing presentations on topic
 # Liedenfrost effect
 The [liedenfrost effect](https://en.wikipedia.org/wiki/Leidenfrost_effect) can occur when a liquid is close to the surface of another body that is hotter than the liquid's boiling point. The liquid will boil as it approaches the other body's surface, producing an insulating layer of vapour. This effect can cause water droplets to last for long periods of time on a hot plate, or protect a person's hand from freezing if submerged in liquid nitrogen. The poster below describes the effect in more detail:
 
-{% include figure popup=true image_path="/assets/images/leidenfrost-poster.png" alt="leidenfrost poster"%}
+{% include figure popup=true image_path="/assets/images/demos/leidenfrost-poster.png" alt="leidenfrost poster"%}
 
 We had read about one phenomena -- machining a sawtooth pattern into the hot plate will induce a net horizontal force on the water droplets, causing them to accelerate. I am working on digging up a video demonstrating the effect.
 
@@ -43,10 +43,12 @@ Try to guess how the engine works!
   <summary>Hint 1</summary>
   The water in the bowl is not at room temperature.
 </details>
+
 <details> 
   <summary>Hint 2</summary>
   The material that the wire is made from is important. 
 </details>
+
 <details> 
   <summary>How it works</summary>
   
@@ -64,7 +66,7 @@ Try to guess how the engine works!
   3. Because the wire is on average hotter on the right-hand side of the pulley, the straightening force is stronger on that side. The wire also has less distance to travel in order to fully straighten. This means that more wire is pulled from the left-hand side of the pulley.
   4. As the wire leaves the hot water, it slowly cools, reducing the straightening force.
 
-  ![alt text](/assets/images/nitinol-engine-hand.png)
+  ![Nitinol Engine diagram](/assets/images/demos/nitinol-engine-hand.png)
   
   Bill Hammond has an [excellent video](https://www.youtube.com/watch?v=wI-qAxKJoSU) on the topic if a visual demonstration is helpful, although I found his explanation of how the torque is generated a little hand-wavy. The paper [Thermobile Nitinol Engine by Frederick E Wang](https://saemobilus.sae.org/papers/thermobile-nitinol-engine-851495#view) discusses the mechanism in greater detail.
 
