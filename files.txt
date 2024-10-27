@@ -1,0 +1,5 @@
+assets/media/printing/pannier-load.mp4
+assets/media/printing/pannier-remove.mp4
+assets/media/printing/pannier-shake.mp4
+assets/media/quadcopter-flying.mp4
+assets/media/thermobile-demo.mov
