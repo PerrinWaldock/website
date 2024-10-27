@@ -23,9 +23,7 @@ We had read about one phenomena -- machining a sawtooth pattern into the hot pla
 
 We discovered a second phenomena -- if excited by some external perturbation, the water droplets oscillate in space. Different masses of droplets cause different numbers of nodes in the oscillatory shape. We found that slow-motion videos of the effect can be mesmerizing to watch:
 
-<video width="320" height="480" controls>
-  <source src="/assets/media/leidenfrost/12nodes.m4v" type="video/mp4">
-</video>
+{% include video id="0sihNOebORY" provider="youtube" %}
 
 More videos can be seen [here](/posts/leidenfrost-modes/).
 
@@ -33,9 +31,7 @@ More videos can be seen [here](/posts/leidenfrost-modes/).
 
 A classmate and I made an engine for a solid-state physics course. It does not use electromagnetic or chemical effects to function:
 
-<video width="320" height="480" controls>
-  <source src="/assets/media/thermobile-demo.mov" type="video/mp4">
-</video>
+{% include video id="QQG6ShDrmfo" provider="youtube" %}
 
 Try to guess how the engine works!
 
