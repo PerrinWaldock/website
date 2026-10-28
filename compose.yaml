@@ -1,0 +1,28 @@
+services:
+  jekyll:
+    image: ruby:3.3
+    working_dir: /site
+    volumes:
+      - ./:/site
+      - bundle_cache:/usr/local/bundle
+    environment:
+      JEKYLL_ENV: production
+      BUNDLE_SILENCE_ROOT_WARNING: "1"
+    command: >
+      sh -c "
+        bundle install &&
+        bundle exec jekyll build
+      "
+    profiles:
+      - build
+
+  nginx:
+    image: nginx:alpine
+    restart: unless-stopped
+    ports:
+      - "10.10.0.2:8082:80"
+    volumes:
+      - ./_site:/usr/share/nginx/html:ro
+
+volumes:
+  bundle_cache:
