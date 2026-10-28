@@ -26,7 +26,7 @@ gallery:
 
 One of my undergraduate projects involved building a quadcopter. My group purchased off-the-shelf components for the rotors, motors, battery, trancievers, and microcontroller, but designed the frame, control system, and handheld controller ourselves. I was responsible for designing the communication protocol and flight controller, and performed most of the tuning and calibration.
 
-The report can be downloaded [here](../assets/documents/engr340390report1.0.pdf), and the source code is [here](https://github.com/PerrinWaldock/quadcopter-project).
+The report can be downloaded [here](/assets/documents/engr340390report1.0.pdf), and the source code is [here](https://github.com/PerrinWaldock/quadcopter-project).
 
 {% include gallery caption="Images of the quadcopter. Click to view larger version of each image." %}
 
